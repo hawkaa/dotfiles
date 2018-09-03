@@ -1,5 +1,4 @@
 alias v="ls -la"
 alias svba="source venv/bin/activate"
-alias g$al="git $al"
+alias gi=git
 
-DISABLE_UNTRACKED_FILES_DIRTY="true"

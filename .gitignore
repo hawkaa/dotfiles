@@ -1,0 +1,6 @@
+*
+!.gitignore
+!.profile
+!.bashrc
+!.zshrc
+!.vimrc
