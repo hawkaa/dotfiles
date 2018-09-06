@@ -4,3 +4,5 @@ alias gi=git
 
 export GOPATH=$HOME/go
 export PATH=$PATH:$GOPATH/bin
+
+source .profile.local
