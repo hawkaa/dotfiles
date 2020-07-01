@@ -3,6 +3,7 @@
 # Please adapt and uncomment the following lines:
 	name = Håkon Åmdal
 	email = hakon@aamdal.com
+	signingkey = 4523112B1E73C909
 
 [alias]
 
@@ -1133,3 +1134,5 @@
   ush = push
 [url "ssh://git@github.com/"]
 	insteadOf = https://github.com/
+[pull]
+	ff = only
