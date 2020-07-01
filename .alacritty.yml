@@ -1,0 +1,4 @@
+shell:
+    program: /bin/zsh
+key_bindings:
+  - { key: 26,      mods: Alt,          chars: "|"                  }
