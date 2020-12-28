@@ -5,7 +5,7 @@ alias gi=git
 export GOPATH=$HOME/go
 export PATH="$PATH:$GOPATH/bin:/Applications/Visual Studio Code.app/Contents/Resources/app/bin"
 
-source .profile.local
+source ~/.profile.local
 
 # Setting PATH for Python 3.8
 # The original version is saved in .profile.pysave
