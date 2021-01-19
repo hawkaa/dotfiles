@@ -101,3 +101,12 @@ source $ZSH/oh-my-zsh.sh
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
+
+# Created by `userpath` on 2021-01-07 08:13:09
+export PATH="$PATH:/Users/hakon/.local/bin"
+
+# The next line updates PATH for the Google Cloud SDK.
+if [ -f '/Users/hakon/google-cloud-sdk/path.zsh.inc' ]; then . '/Users/hakon/google-cloud-sdk/path.zsh.inc'; fi
+
+# The next line enables shell command completion for gcloud.
+if [ -f '/Users/hakon/google-cloud-sdk/completion.zsh.inc' ]; then . '/Users/hakon/google-cloud-sdk/completion.zsh.inc'; fi
